@@ -1,0 +1,21 @@
+export default {
+    tabMap: "Map",
+    tabList: "List",
+    language: "Ru",
+    enter: "Login",
+    email: "Email",
+    password: "Password",
+    button: "Login",
+    signInErrorInput: "Enter your login details!",
+    signInErrorEmail: "There is no user with mentioned e-mail!",
+    signInErrorPassword: "Password does not match e-mail!",
+    works: "WORKS",
+    notWorking: "NOT WORKING",
+    recordStart: "Zoomia started recording a call",
+    recordStop: "Zoomia stopped recording call",
+    lastPlay: "Play last record",
+    archive: "You have no records",
+    permissions_title: "Zoomia permissions",
+    permissions_message: "Zoomia requires all permissions to be enabled!",
+    destination_points: "Destination points"
+};

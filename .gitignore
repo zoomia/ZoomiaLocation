@@ -1,0 +1,12 @@
+.idea
+npm-debug.log
+
+hooks/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
+report/
+
+test-results.xml
